@@ -1,5 +1,5 @@
 
-#Lecture 2 : Introduction to Python
+**Lecture 2 : Introduction to Python**
 
 We cover the key elements of python. Specifically here we are trying to illustrate the use of python to 
 
