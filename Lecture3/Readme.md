@@ -1,9 +1,10 @@
-** Running code and plotting data**
+The  jupyter examples are to explore
 
-We will use the examples of 
+(a) Functions and classes
 
-(a) Nonlinear ODE with plotting the FSI phase portrait and compare with 
+(b) Solving simple linear ODE and SHM
 
-(b) Plotting the acceleration of a door - what does it mean and what is a physical model of this ?
+(c) Dyanmics of a red ball in a recorded video
 
-(c) 
+(d) Bluetooth introduction.
+
